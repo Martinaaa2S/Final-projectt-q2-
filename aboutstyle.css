@@ -18,7 +18,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background: url('../images/bghome.png') center/cover no-repeat;
+  background: url('bghome.png') center/cover no-repeat;
   padding: 15px 40px;
   border-bottom: 3px solid #fcf7f2;
   box-shadow: 0 3px 6px rgba(0,0,0,0.1);
@@ -167,7 +167,7 @@ footer ul.references li {
   height: 70px;
   background-color: pink;
   display: inline-block;
-  background-image: url("../images/icons.png");
+  background-image: url("icons.png");
   background-repeat: no-repeat;
   background-size: 795px auto;
 }
@@ -178,4 +178,5 @@ footer ul.references li {
 
 .icon2 {
   background-position: -657px 0;
+
 }
